@@ -33,7 +33,6 @@
             Waktu Tunggu Makin Lama
 
             Karena semua perangkat harus menunggu giliran untuk menggunakan bus, semakin banyak yang terhubung, semakin lama waktu tunggunya. Seperti antrean di kasir yang                makin panjang, makin lama juga sampai giliran kita.
-
             Sinyal Jadi Lambat
 
             Setiap perangkat yang terhubung ke bus itu menambah beban listrik (kapasitansi) di sistem. Ini bikin sinyal data berjalan lebih lambat, kayak kalau kabel listrik             terlalu panjang, arusnya jadi melemah.
@@ -41,12 +40,10 @@
             Kecepatan Internet Dibagi-Bagi
 
             Misalnya kita punya WiFi di rumah. Kalau cuma satu orang pakai, internetnya ngebut. Tapi kalau semua anggota keluarga streaming video sekaligus, kecepatan buat               masing-masing orang bakal turun. Begitu juga dengan bus: semakin banyak perangkat yang menggunakannya, semakin kecil bagian bandwidth yang bisa dipakai tiap                  perangkat.
-
             Kemacetan Data
 
             Kalau terlalu banyak perangkat mengirim data dalam waktu bersamaan, bus bisa jadi kewalahan. Akibatnya, ada delay atau malah data harus dikirim ulang karena                  terjadi gangguan.
-
-            Gangguan Sinyal
+              Gangguan Sinyal
 
             Dengan banyak perangkat terhubung, sinyal bisa saling mengganggu. Ini seperti kalau banyak orang bicara di ruangan kecil, suara jadi campur aduk dan sulit                    dimengerti.
 
